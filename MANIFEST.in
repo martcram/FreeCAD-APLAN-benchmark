@@ -1,4 +1,0 @@
-graft freecad_aplan_benchmark/library
-global-exclude *.stp 
-global-exclude *.step
-prune */__pycache__
