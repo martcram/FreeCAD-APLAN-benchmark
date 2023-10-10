@@ -1,0 +1,608 @@
+{
+    "nodes": [
+        {
+            "name": "9_001"
+        },
+        {
+            "name": "11_001"
+        },
+        {
+            "name": "12_001"
+        },
+        {
+            "name": "18_001"
+        },
+        {
+            "name": "8_001"
+        },
+        {
+            "name": "2_001"
+        },
+        {
+            "name": "6_Compound"
+        },
+        {
+            "name": "7_Compound"
+        },
+        {
+            "name": "4_Compound"
+        },
+        {
+            "name": "22_001"
+        },
+        {
+            "name": "10_001"
+        },
+        {
+            "name": "16_001"
+        },
+        {
+            "name": "1_001"
+        },
+        {
+            "name": "5_001"
+        },
+        {
+            "name": "3_Compound"
+        },
+        {
+            "name": "13_Compound"
+        },
+        {
+            "name": "19_001"
+        },
+        {
+            "name": "15_001"
+        },
+        {
+            "name": "14_Compound"
+        },
+        {
+            "name": "21_Compound"
+        },
+        {
+            "name": "17_Compound"
+        },
+        {
+            "name": "20_001"
+        }
+    ],
+    "links": [
+        {
+            "source": "1_001",
+            "target": "5_001"
+        },
+        {
+            "source": "1_001",
+            "target": "6_Compound"
+        },
+        {
+            "source": "1_001",
+            "target": "11_001"
+        },
+        {
+            "source": "1_001",
+            "target": "12_001"
+        },
+        {
+            "source": "1_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "1_001",
+            "target": "15_001"
+        },
+        {
+            "source": "1_001",
+            "target": "16_001"
+        },
+        {
+            "source": "1_001",
+            "target": "17_Compound"
+        },
+        {
+            "source": "1_001",
+            "target": "18_001"
+        },
+        {
+            "source": "1_001",
+            "target": "19_001"
+        },
+        {
+            "source": "1_001",
+            "target": "21_Compound"
+        },
+        {
+            "source": "1_001",
+            "target": "22_001"
+        },
+        {
+            "source": "2_001",
+            "target": "1_001"
+        },
+        {
+            "source": "2_001",
+            "target": "1_001"
+        },
+        {
+            "source": "2_001",
+            "target": "4_Compound"
+        },
+        {
+            "source": "2_001",
+            "target": "5_001"
+        },
+        {
+            "source": "2_001",
+            "target": "6_Compound"
+        },
+        {
+            "source": "2_001",
+            "target": "7_Compound"
+        },
+        {
+            "source": "2_001",
+            "target": "10_001"
+        },
+        {
+            "source": "2_001",
+            "target": "11_001"
+        },
+        {
+            "source": "2_001",
+            "target": "12_001"
+        },
+        {
+            "source": "2_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "2_001",
+            "target": "15_001"
+        },
+        {
+            "source": "2_001",
+            "target": "16_001"
+        },
+        {
+            "source": "2_001",
+            "target": "18_001"
+        },
+        {
+            "source": "2_001",
+            "target": "20_001"
+        },
+        {
+            "source": "2_001",
+            "target": "21_Compound"
+        },
+        {
+            "source": "2_001",
+            "target": "22_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "1_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "2_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "5_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "11_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "12_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "18_001"
+        },
+        {
+            "source": "3_Compound",
+            "target": "21_Compound"
+        },
+        {
+            "source": "3_Compound",
+            "target": "22_001"
+        },
+        {
+            "source": "4_Compound",
+            "target": "5_001"
+        },
+        {
+            "source": "4_Compound",
+            "target": "7_Compound"
+        },
+        {
+            "source": "4_Compound",
+            "target": "10_001" 
+        },
+        {
+            "source": "4_Compound",
+            "target": "11_001"
+        },
+        {
+            "source": "4_Compound",
+            "target": "12_001"
+        },
+        {
+            "source": "4_Compound",
+            "target": "13_Compound"
+        },
+        {
+            "source": "4_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "4_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "5_001",
+            "target": "6_Compound"
+        },
+        {
+            "source": "5_001",
+            "target": "11_001"
+        },
+        {
+            "source": "5_001",
+            "target": "12_001"
+        },
+        {
+            "source": "5_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "5_001",
+            "target": "15_001"
+        },
+        {
+            "source": "5_001",
+            "target": "16_001"
+        },
+        {
+            "source": "5_001",
+            "target": "18_001"
+        },
+        {
+            "source": "5_001",
+            "target": "22_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "11_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "12_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "13_Compound"
+        },
+        {
+            "source": "6_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "18_001"
+        },
+        {
+            "source": "6_Compound",
+            "target": "22_001"
+        },
+        {
+            "source": "7_Compound",
+            "target": "5_001"
+        },
+        {
+            "source": "7_Compound",
+            "target": "11_001"
+        },
+        {
+            "source": "7_Compound",
+            "target": "12_001"
+        },
+        {
+            "source": "7_Compound",
+            "target": "13_Compound"
+        },
+        {
+            "source": "7_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "7_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "8_001",
+            "target": "1_001"
+        },
+        {
+            "source": "8_001",
+            "target": "2_001"
+        },
+        {
+            "source": "8_001",
+            "target": "4_Compound"
+        },
+        {
+            "source": "8_001",
+            "target": "5_001"
+        },
+        {
+            "source": "8_001",
+            "target": "6_Compound"
+        },
+        {
+            "source": "8_001",
+            "target": "7_Compound"
+        },
+        {
+            "source": "8_001",
+            "target": "10_001"
+        },
+        {
+            "source": "8_001",
+            "target": "11_001"
+        },
+        {
+            "source": "8_001",
+            "target": "12_001"
+        },
+        {
+            "source": "8_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "8_001",
+            "target": "15_001"
+        },
+        {
+            "source": "8_001",
+            "target": "16_001"
+        },
+        {
+            "source": "9_001",
+            "target": "2_001"
+        },
+        {
+            "source": "9_001",
+            "target": "4_Compound"
+        },
+        {
+            "source": "9_001",
+            "target": "5_001"
+        },
+        {
+            "source": "9_001",
+            "target": "7_Compound"
+        },
+        {
+            "source": "9_001",
+            "target": "10_001"
+        },
+        {
+            "source": "9_001",
+            "target": "11_001"
+        },
+        {
+            "source": "9_001",
+            "target": "12_001"
+        },
+        {
+            "source": "9_001",
+            "target": "16_001"
+        },
+        {
+            "source": "10_001",
+            "target": "5_001"
+        },
+        {
+            "source": "10_001",
+            "target": "7_Compound"
+        },
+        {
+            "source": "10_001",
+            "target": "11_001"
+        },
+        {
+            "source": "10_001",
+            "target": "12_001"
+        },
+        {
+            "source": "10_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "10_001",
+            "target": "15_001"
+        },
+        {
+            "source": "10_001",
+            "target": "16_001"
+        },
+        {
+            "source": "10_001",
+            "target": "20_001"
+        },
+        {
+            "source": "11_001",
+            "target": "1_001"
+        },
+        {
+            "source": "11_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "11_001",
+            "target": "15_001"
+        },
+        {
+            "source": "11_001",
+            "target": "16_001"
+        },
+        {
+            "source": "11_001",
+            "target": "18_001"
+        },
+        {
+            "source": "11_001",
+            "target": "22_001"
+        },
+        {
+            "source": "12_001",
+            "target": "1_001"
+        },
+        {
+            "source": "12_001",
+            "target": "13_Compound"
+        },
+        {
+            "source": "12_001",
+            "target": "15_001"
+        },
+        {
+            "source": "12_001",
+            "target": "16_001"
+        },
+        {
+            "source": "12_001",
+            "target": "18_001"
+        },
+        {
+            "source": "12_001",
+            "target": "22_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "11_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "12_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "18_001"
+        },
+        {
+            "source": "13_Compound",
+            "target": "22_001"
+        },
+        {
+            "source": "14_Compound",
+            "target": "1_001"
+        },
+        {
+            "source": "14_Compound",
+            "target": "15_001"
+        },
+        {
+            "source": "14_Compound",
+            "target": "16_001"
+        },
+        {
+            "source": "14_Compound",
+            "target": "18_001"
+        },
+        {
+            "source": "14_Compound",
+            "target": "22_001"
+        },
+        {
+            "source": "15_001",
+            "target": "16_001"
+        },
+        {
+            "source": "15_001",
+            "target": "17_Compound"
+        },
+        {
+            "source": "15_001",
+            "target": "18_001"
+        },
+        {
+            "source": "15_001",
+            "target": "19_001"
+        },
+        {
+            "source": "15_001",
+            "target": "21_Compound"
+        },
+        {
+            "source": "15_001",
+            "target": "22_001"
+        },
+        {
+            "source": "16_001",
+            "target": "18_001"
+        },
+        {
+            "source": "16_001",
+            "target": "20_001"
+        },
+        {
+            "source": "16_001",
+            "target": "21_Compound"
+        },
+        {
+            "source": "16_001",
+            "target": "22_001"
+        },
+        {
+            "source": "18_001",
+            "target": "17_Compound"
+        },
+        {
+            "source": "18_001",
+            "target": "21_Compound"
+        },
+        {
+            "source": "18_001",
+            "target": "22_001"
+        },
+        {
+            "source": "19_001",
+            "target": "17_Compound"
+        },
+        {
+            "source": "19_001",
+            "target": "18_001"
+        },
+        {
+            "source": "22_001",
+            "target": "21_Compound"
+        }
+    ]
+}
